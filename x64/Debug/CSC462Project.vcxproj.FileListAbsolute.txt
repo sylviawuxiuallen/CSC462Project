@@ -1,0 +1,2 @@
+C:\Users\Max\source\repos\CSC462Project\x64\Debug\CSC462Project.exe
+C:\Users\Max\source\repos\CSC462Project\x64\Debug\CSC462Project.pdb

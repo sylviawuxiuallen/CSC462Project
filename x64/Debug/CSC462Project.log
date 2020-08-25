@@ -1,0 +1,145 @@
+﻿  main.cpp
+C:\Users\Max\source\repos\CSC462Project\master.hpp(83,30): warning C4101: 'e': unreferenced local variable
+C:\Users\Max\source\repos\CSC462Project\worker.hpp(95,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\worker.hpp(109,1): warning C4244: '-=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(24,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(58,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(82,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(109,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(137,76): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(166,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(187,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(212,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(281,1): warning C4244: '-=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(295,107): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\main.cpp(25,44): warning C4244: 'argument': conversion from '__time64_t' to 'unsigned int', possible loss of data
+C:\Users\Max\source\repos\CSC462Project\main.cpp(120,114): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  network.hpp
+C:\Users\Max\source\repos\CSC462Project\master.hpp(83,30): warning C4101: 'e': unreferenced local variable
+C:\Users\Max\source\repos\CSC462Project\worker.hpp(95,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\worker.hpp(109,1): warning C4244: '-=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(24,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(58,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(82,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(109,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(137,76): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(166,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(187,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(212,75): warning C4244: 'argument': conversion from '_Rep' to 'unsigned int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(281,1): warning C4244: '-=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\network.hpp(295,107): warning C4244: '=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  master.hpp
+C:\Users\Max\source\repos\CSC462Project\master.hpp(83,30): warning C4101: 'e': unreferenced local variable
+  worker.hpp
+C:\Users\Max\source\repos\CSC462Project\worker.hpp(95,1): warning C4244: '+=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+C:\Users\Max\source\repos\CSC462Project\worker.hpp(109,1): warning C4244: '-=': conversion from '_Rep' to 'int', possible loss of data
+          with
+          [
+              _Rep=__int64
+          ]
+  Generating Code...
+  CSC462Project.vcxproj -> C:\Users\Max\source\repos\CSC462Project\x64\Debug\CSC462Project.exe
